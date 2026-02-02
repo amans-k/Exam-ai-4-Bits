@@ -32,7 +32,7 @@ export const Footer = () => {
               <a href="#" className="w-9 h-9 rounded-lg bg-muted/50 flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Github className="w-4 h-4" />
               </a>
-              <a href="#" className="w-9 h-9 rounded-lg bg-muted/50 flex items-center justify-center hover:bg-primary/20 transition-colors">
+              <a href="https://www.linkedin.com/in/waliullah-shaikh-2a1423344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="w-9 h-9 rounded-lg bg-muted/50 flex items-center justify-center hover:bg-primary/20 transition-colors">
                 <Linkedin className="w-4 h-4" />
               </a>
             </div>
@@ -76,9 +76,9 @@ export const Footer = () => {
           <div>
             <h4 className="font-semibold mb-4">Get In Touch</h4>
             <div className="space-y-3">
-              <a href="mailto:contact@examai.io" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors">
+              <a href="mailto:contact4bit@gmail.com" className="flex items-center gap-2 text-sm text-muted-foreground hover:text-foreground transition-colors">
                 <Mail className="w-4 h-4" />
-                contact@examai.io
+                contact4bit@gmail.com
               </a>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <MessageCircle className="w-4 h-4" />
@@ -100,7 +100,7 @@ export const Footer = () => {
             Thank You for Your Interest!
           </p>
           <p className="text-xs text-muted-foreground">
-            © 2024 ExamAI by Team 4bit. All rights reserved.
+            © 2026 ExamAI by Team 4bit. All rights reserved.
           </p>
         </motion.div>
       </div>
