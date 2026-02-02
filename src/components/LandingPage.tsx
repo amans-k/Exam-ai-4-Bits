@@ -44,7 +44,7 @@ const LandingPage = () => {
           className="w-full h-auto rounded-xl"
         >
           {/* 🎵 Video path correct kiya: /team-intro.mp4 (not /public/team-intro.mp4) */}
-          <source src="/team-intro.mp4" type="video/mp4" />
+          <source src="/public/team-intro.mp4" type="video/mp4" />
         </video>
         
         <button
